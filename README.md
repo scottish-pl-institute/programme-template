@@ -1,4 +1,4 @@
-# A LaTeX template for listing seminar programmes
+# A LaTeX template for typesetting seminar programmes
 
 Make sure to have installed a reasonably modern distribution of
 [texlive](https://www.tug.org/texlive/), then edit `programme.tex` and

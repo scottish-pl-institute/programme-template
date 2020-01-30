@@ -43,7 +43,7 @@
             {}                  %
             []
 
-%% The session environment is provides the "two column"
+%% The session environment provides the "two column"
 %% look, where the first column contains time information,
 %% and the second contains the description of the
 %% session. The environment takes three arguments: start
